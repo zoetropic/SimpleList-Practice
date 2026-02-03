@@ -1,0 +1,1 @@
+This is a simple program written following a C++ tutorial by SavvyNik on youtube, meant to teach the basics of writing a terminal program in C++ and demonstrate some basic concepts of programming in C++.
