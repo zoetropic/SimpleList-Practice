@@ -1,3 +1,6 @@
 /SimpleList
 /list.d
 /main.d
+.vscode/launch.json
+database.d
+db/lists.sl
